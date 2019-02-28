@@ -15,7 +15,7 @@
 
 #Database commands for MYSQL
 
--->Create database Project_db          /*this database for profile-service*/
+-->Create database project_db          /*this database for profile-service*/
 
 --.Create database wallet_service      /*this database for wallet-service*/
 
@@ -26,7 +26,7 @@
 
 #Database Commands for Mongodb
 
--->Use Product_db                      /* this database for product-service*/
+-->Use product_db                      /* this database for product-service*/
 
 -->Use Demo                            /*this database for Cart-service*/
 
@@ -37,7 +37,7 @@
 
 
 
-#After that restore the "Product_db" database by the following way
+#After that restore the "product_db" database by the following way
 
 #clone the database file from git repository using following command in git bash
 
