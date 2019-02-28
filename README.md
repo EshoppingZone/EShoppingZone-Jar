@@ -28,9 +28,9 @@
 
 -->Use product_db                      /* this database for product-service*/
 
--->Use Demo                            /*this database for Cart-service*/
+-->Use demo                            /*this database for Cart-service*/
 
--->Use Test                            /*this database for Order-service*/
+-->Use test                            /*this database for Order-service*/
 
 
 
@@ -49,7 +49,7 @@
 
 After that open CMD from MONGODB bin folder and run the command
 
--->mongorestore -d Product_db (here give the path of database file)
+-->mongorestore -d product_db (here give the path of database file)
 
 
 
